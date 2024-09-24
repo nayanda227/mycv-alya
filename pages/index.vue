@@ -11,15 +11,21 @@
             I am passionate about building websites and am eager to expand my knowledge and skills. 
             My goal is to continually grow as a developer and bring creative and functional ideas to life. 
             I'm excited about the journey ahead and always open to new learning opportunities!</p>
-        </section>
+             <!-- Tambahkan informasi pribadi -->
+          <ul class="list-unstyled mt-4">
+            <li><strong>Date of Birth:</strong> November 29, 2005</li>
+            <li><strong>Address:</strong> Jl. Mujamil No. 24, Malang</li>
+            <li><strong>Email:</strong> <a href="mailto:nalya2911@gmail.com">nalya2911@gmail.com</a></li>
+            <li><strong>Phone:</strong> +62 857-4266-8675</li>
+          </ul>
+          </section>
       </div>
       <div class="col-md-5">
         <section id="education" class="box-section blue-box">
           <h2 class="text-center mb-4">Education</h2>
           <ul class="list-unstyled">
             <li>
-              <h5>Gelar atau Sertifikasi</h5>
-              <p>Singosari Senior Highschool - 2020</p>
+              <h5>Singosari Senior Highschool - 2020</h5>
               <p>I actively participated in various extracurricular activities through the student council (OSIS),
                  where I developed leadership, teamwork, and organizational skills. 
                  These experiences helped shape my ability to manage multiple tasks and collaborate with diverse groups of people</p>
@@ -27,7 +33,7 @@
           </ul>
           <ul class="list-unstyled">
             <li>
-              <p>Associate Science Information Technology-Brawijaya University</p>
+              <h5>Associate Science Information Technology-Brawijaya University</h5>
               <p>Start from 2023</p>
               <p>During my time at Universitas Brawijaya, I chose to focus primarily on academics, 
                 immersing myself in the new world of Information Technology. 
