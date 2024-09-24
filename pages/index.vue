@@ -20,14 +20,18 @@
             <li>
               <h5>Gelar atau Sertifikasi</h5>
               <p>Singosari Senior Highschool - 2020</p>
-              <p>Deskripsi singkat tentang apa yang dipelajari atau dicapai.</p>
+              <p>I actively participated in various extracurricular activities through the student council (OSIS),
+                 where I developed leadership, teamwork, and organizational skills. 
+                 These experiences helped shape my ability to manage multiple tasks and collaborate with diverse groups of people</p>
             </li>
           </ul>
           <ul class="list-unstyled">
             <li>
-              <h5>Gelar atau Sertifikasi</h5>
               <p>Universitas Brawijaya - 2023</p>
-              <p>Deskripsi singkat tentang apa yang dipelajari atau dicapai.</p>
+              <p>During my time at Universitas Brawijaya, I chose to focus primarily on academics, 
+                immersing myself in the new world of Information Technology. 
+                Rather than joining campus organizations, I dedicated my efforts to learning and understanding IT, 
+                exploring subjects like programming, networks, and systems independently.</p>
             </li>
           </ul>
         </section>
@@ -40,21 +44,21 @@
         <section id="skills" class="box-section blue-box">
           <h2 class="text-center mb-4">Skills</h2>
           <div class="skill">
-            <h5>JavaScript</h5>
+            <h5>C++</h5>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">80%</div>
+              <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
             </div>
           </div>
           <div class="skill">
             <h5>HTML & CSS</h5>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">90%</div>
+              <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
             </div>
           </div>
           <div class="skill">
-            <h5>Vue.js</h5>
+            <h5>PHP</h5>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+              <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
             </div>
           </div>
         </section>
