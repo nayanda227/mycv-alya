@@ -41,6 +41,7 @@
               <p>Follow me on:</p>
               <a href="https://github.com/nayanda227" target="_blank">Github</a> |
               <a href="https://www.linkedin.com/in/nadia-alya-paramitha/" target="_blank">LinkedIn</a>
+              <a href="https://wa.me/6285742668675" target="_blank">WhatsApp</a>
               <p>Contact: <a href="mailto:nalya2911@gmail.com">nalya2911@gmail.com</a></p>
           </div>
       </footer>

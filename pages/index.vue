@@ -27,7 +27,8 @@
           </ul>
           <ul class="list-unstyled">
             <li>
-              <p>Universitas Brawijaya - 2023</p>
+              <p>Associate Science Information Technology-Brawijaya University</p>
+              <p>Start from 2023</p>
               <p>During my time at Universitas Brawijaya, I chose to focus primarily on academics, 
                 immersing myself in the new world of Information Technology. 
                 Rather than joining campus organizations, I dedicated my efforts to learning and understanding IT, 
@@ -71,6 +72,7 @@
         <p>Follow me on:</p>
         <a href="https://github.com/nayanda227" target="_blank">Github</a> |
         <a href="https://linkedin.com/in/NadiaAlyaParamitha" target="_blank">LinkedIn</a>
+        <a href="https://wa.me/6285742668675" target="_blank">WhatsApp</a>
         <p>Contact: <a href="mailto:nalya2911@gmail.com">nalya2911@gmail.com</a></p>
       </div>
     </footer>
